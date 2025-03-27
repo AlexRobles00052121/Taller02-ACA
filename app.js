@@ -1,8 +1,8 @@
 console.log('Correction: app.js');
 console("Hello World");
 
-function saludar() {
+function greet() {
     return "Hola Mundo";
 }
 
-console.log(saludar());
+console.log(greet());

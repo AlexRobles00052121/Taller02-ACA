@@ -4,8 +4,8 @@
 
 console.log("Hello World");
 
-function saludar() {
+function greet() {
     return "Hola Mundo";
 }
 
-console.log(saludar());
+console.log(greet());
